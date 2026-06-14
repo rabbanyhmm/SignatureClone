@@ -1,10 +1,10 @@
 # SignatureClone
 
-![Repo Size](https://img.shields.io/github/repo-size/myexistences/SignatureClone?style=flat-square)
-![Stars](https://img.shields.io/github/stars/myexistences/SignatureClone?style=flat-square)
-![Forks](https://img.shields.io/github/forks/myexistences/SignatureClone?style=flat-square)
-![License](https://img.shields.io/github/license/myexistences/SignatureClone?style=flat-square)
-![Views](https://komarev.com/ghpvc/?username=myexistences\&label=Repo%20Views\&color=blue\&style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/rabbanyhmm/SignatureClone?style=flat-square)
+![Stars](https://img.shields.io/github/stars/rabbanyhmm/SignatureClone?style=flat-square)
+![Forks](https://img.shields.io/github/forks/rabbanyhmm/SignatureClone?style=flat-square)
+![License](https://img.shields.io/github/license/rabbanyhmm/SignatureClone?style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=rabbanyhmm\&label=Repo%20Views\&color=blue\&style=flat-square)
 
 ---
 
@@ -48,7 +48,7 @@ Packages:
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/myexistences/SignatureClone.git
+git clone https://github.com/rabbanyhmm/SignatureClone.git
 cd SignatureClone
 pip install -r requirements.txt
 ```
